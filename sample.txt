@@ -1,0 +1,4 @@
+Hello
+Welcome
+To AI Lab
+This is Few Shot Prompting
